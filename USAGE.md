@@ -56,14 +56,7 @@ Specify any restrictions beyond the LICENSE:
 
 ---
 
-## 6. Ownership
-
-**Owning Team:** Machine Learning
-**Technical Owner (TL/Manager):** Francisco Clavero
-
----
-
-## 7. Exposure Level
+## 6. Exposure Level
 
 Define where this repository is expected to run:
 
@@ -73,7 +66,7 @@ Define where this repository is expected to run:
 
 ---
 
-## 8. Compliance & Sensitivity (Optional)
+## 7. Compliance & Sensitivity (Optional)
 
 * [ ] Handles sensitive data
 * [ ] Requires special security controls
@@ -83,7 +76,7 @@ No sensitive NotCo data is present. Note: the repository includes a full copy of
 
 ---
 
-## 9. Lifecycle Status
+## 8. Lifecycle Status
 
 * [ ] Active
 * [ ] Maintenance
@@ -92,6 +85,6 @@ No sensitive NotCo data is present. Note: the repository includes a full copy of
 
 ---
 
-## 10. Last Updated
+## 9. Last Updated
 
 Date: 2026-08-20
